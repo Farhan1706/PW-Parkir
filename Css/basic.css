@@ -1,0 +1,65 @@
+.cls-1{
+    fill:rgb(177, 174, 174);
+    stroke-width:0.94px;
+    stroke-dasharray:0.94 3.78;
+}
+
+.cls-1,.cls-2{
+    stroke:#0082c8;
+}
+
+.cls-1,.cls-2,.cls-4,.cls-5,.cls-7{
+    stroke-linecap:round;
+    stroke-linejoin:round;
+    opacity:0.54;
+}
+
+.cls-1,.cls-2,.cls-6{
+    fill-rule:evenodd;
+}
+
+.cls-1,.cls-2,.cls-4,.cls-5,.cls-7,.cls-8,.cls-9{
+    isolation:isolate;
+}
+
+.cls-2{
+    fill:#f9f9f9;
+    stroke-width:0.83px;
+    stroke-dasharray:0.83 3.32;
+}
+
+.cls-3{
+    fill:rgb(156, 154, 154);
+    stroke:#fff;
+    stroke-width:3px;
+    transition: all 0.5s;
+}
+
+.cls-3:hover{
+    fill:#666;
+}
+
+.cls-4,.cls-5,.cls-7{
+    stroke:#fdfeff;
+}
+
+.cls-4,.cls-5,.cls-6,.cls-7,.cls-9{
+    fill:#fff;
+}
+
+.cls-4{
+    stroke-width:1.67px;
+}
+
+.cls-5{
+    stroke-width:2.66px;
+}
+
+.cls-7{
+    stroke-width:2.66px;
+}
+
+.cls-9{
+    font-size:40px;
+    font-family:MyriadPro-Regular, Myriad Pro;
+}
